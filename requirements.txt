@@ -1,0 +1,9 @@
+pandas
+torchaudio
+torch
+
+
+
+
+# pip install pandas
+# pip install torchaudio 
