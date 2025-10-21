@@ -1,9 +1,11 @@
 pandas
 torchaudio
 torch
-
-
-
-
-# pip install pandas
-# pip install torchaudio 
+tqdm
+numpy
+tensorboard
+fastapi
+librosa
+pydantic
+soundfile
+torchcodec
